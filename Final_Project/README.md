@@ -1,6 +1,6 @@
 ---
 license: cc0-1.0
-tags:
+Tags:
 - biology
 - 🐧
 pretty_name: Palmer Penguins
